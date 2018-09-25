@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488800108 source:d:\users\erolp\desktop\q-learning\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+
